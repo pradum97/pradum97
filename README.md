@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Pradum Kumar, a passionate software developer with a knack for turning lines of code into functional and efficient software solutions.
+I'm Pradum Kumar, a passionate full stack developer with a knack for turning lines of code into functional and efficient software solutions.
 
 #### 🌟 What I Love:
 
